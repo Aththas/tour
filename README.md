@@ -28,7 +28,7 @@ Once you have Tourism Website up and running, you can perform the following acti
 5. Add and manage tours.
 
 ## Technologies Used
-Tourism Website is built using the following technologies and frameworks:
+Tourism Website is built using the following technologies:
 
 1. Frontend: Html, css, js
 2. Backend: PHP
